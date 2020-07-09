@@ -1,0 +1,54 @@
+*******************************************************************************************
+*                                                                                         *
+*                                                                                         *
+*                        COMMENT UTILISER LES FONCTIONNALITES DU SITE                     *
+*                                                                                         *
+*                                                                                         *              
+*******************************************************************************************
+
+************************************************* PAGE INDEX
+RENSEIGNEZ SON EMAIL ET SON MOT DE PASSE
+
+
+************************************************** PAGE REGISTER (S'ENREGISTRER)
+LORSQU'ON A PAS DE COMPTE ON CREE UN COMPTE EN RENSEIGNANT :
+- SON NOM, SON MOT DE PASSE AINSI QUE SON EMAIL
+
+
+
+*************************************************** PAGE GENERATEUR
+- RENSEIGNEZ LE TITRE DE LA PAGE, LE TITRE DE L'EXERCICE, L'AUTEUR DE L'EXERCICE, LA DATE DE CREATION DE L'EXERCICE
+- AJOUTER DES PARAMETRES SUPPLEMENTAIRE
+
+*************************
+==> CREER LES QUESTIONS: 
+*************************
+ENTREZ LA CONSIGNE POUR L'EXERCICE
+ENTREZ LE TEXTE POUR LA GENERATION DU TROU
+
+************************
+==> GENERATION DU TROU:
+************************
+SELECTIONNEZ LA PARTIE SUR LAQUELLE VOUS VOULEZ AJOUTER UN TROU, CLIQUEZ SUR "CREER UN TROU" ENSUITE CLIQUEZ SUR "SAUVER"
+APRES AVOIR "SAUVER", CLIQUEZ SUR "PREVISUALISER" POUR VOIR LA CREATION DE L'EXERCICE
+
+************************
+==> CONFIGURER LA PAGE:
+************************
+LA PARTIE CSS DU RENDU DE LA PAGE
+ORGANISATION DES BOUTONS, TEXTES, MINITEUR, POLICE DE CARACTERE
+COULEUR DE FOND, TITRE, BOUTONS, CHAMPS DE SAISI 
+
+***********************
+==> BOUTON "GENERER":
+***********************
+CLIQUEZ SUR "GENERER"
+POUR AVOIR LE CODE DE L'EXERCICE EN HTML, JAVASCRIPT ET CSS
+SELECTIONNEZ LE CODE, COPIER-COLLER DANS UN FICHIER ".HTML"
+
+VOILA, VOUS AVEZ UN EXERCICE DE TEXTES A TROUS 
+
+****************************************************** PAGE FICHIER 
+EXEMPLE DE TEXTES A TROUS 
+OUVRIR "FICHIER" POUR VOIR UN EXEMPLE DE TEXTES A TROUS
+******************************************************************
